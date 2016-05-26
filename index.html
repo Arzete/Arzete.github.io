@@ -9,6 +9,9 @@ function myFunction() {
 	var answer = prompt("Enter a number answer to the problem");
 	var run = true;
 	while(run === true){
+		if(answer == null) {
+		  return;
+		}
 		if(answer === "1"){
 		confirm("You have entered the correct answer. Go to room 2.");
 		run = false;
@@ -16,6 +19,7 @@ function myFunction() {
 		if(answer !== "1"){
 		answer = prompt("You have entered the wrong answer. Please enter another number ");
 		}
+		
 	}
 }
 </script>
