@@ -12,13 +12,14 @@ div.block1{
   margin: 30px;
   color: blue;
   background-image:url("http://cdn.lolwot.com/wp-content/uploads/2015/04/20-of-the-best-anime-series-ever-created-3.jpg");
-  background-size: contain;
+  background-size: cover;
   float: left;
 }
 
 div.info1{
   background: white;
   margin-top: 300px;
+  border: 2px solid purple;
 }
 
 div.block2{
