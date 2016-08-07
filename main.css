@@ -21,7 +21,8 @@ div.block2{
   padding: 25px;
   margin: 25px;
   color: blue;
-  background-color: white;
+  background-image:url("http://vignette3.wikia.nocookie.net/thegamingfamily/images/a/a2/Zoro-one-piece-29912061-960-720.jpg/revision/latest?cb=20140518003054");
+  background-size: cover;
   float: left;
 }
 
@@ -31,7 +32,8 @@ div.block3{
   padding: 25px;
   margin: 25px;
   color: blue;
-  background-color: white;
+  background-image:url("https://images2.alphacoders.com/695/695678.png");
+  background-size: cover;
   float: left;
 }
 
@@ -41,6 +43,7 @@ div.block4{
   padding: 25px;
   margin: 25px;
   color: blue;
-  background-color: white;
+  background-image:url("http://vignette2.wikia.nocookie.net/gintama/images/8/86/Gintama_Episode_52.png/revision/latest?cb=20130520105846");
+  background-size: cover;
   float: left;
 }
