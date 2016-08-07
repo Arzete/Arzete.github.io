@@ -17,6 +17,7 @@ div.block1{
 }
 
 div.info1{
+  color: black;
   background: white;
   margin-top: 350px;
   border: 2px solid purple;
