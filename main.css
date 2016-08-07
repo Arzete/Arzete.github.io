@@ -18,7 +18,7 @@ div.block1{
 
 div.info1{
   padding: 10px;
-  color: black;
+  color: white;
   background: white;
   margin-top: 350px;
   border: 2px solid purple;
@@ -40,10 +40,12 @@ div.block2{
 
 div.info2{
   padding: 10px;
-  color: black;
+  color: white;
   background: white;
   margin-top: 350px;
   border: 2px solid purple;
+  background-image: url("https://i.gyazo.com/062c642d4e660d55835cbfbf84546294.png");
+  background-size: cover;
 }
 
 div.block3{
@@ -60,10 +62,12 @@ div.block3{
 
 div.info3{
   padding: 10px;
-  color: black;
+  color: white;
   background: white;
   margin-top: 350px;
   border: 2px solid purple;
+  background-image: url("https://i.gyazo.com/062c642d4e660d55835cbfbf84546294.png");
+  background-size: cover;
 }
 
 div.block4{
@@ -80,8 +84,10 @@ div.block4{
 
 div.info4{
   padding: 10px;
-  color: black;
+  color: white;
   background: white;
   margin-top: 350px;
   border: 2px solid purple;
+  background-image: url("https://i.gyazo.com/062c642d4e660d55835cbfbf84546294.png");
+  background-size: cover;
 }
