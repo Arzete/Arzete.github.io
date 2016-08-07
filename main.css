@@ -22,7 +22,8 @@ div.info1{
   background: white;
   margin-top: 350px;
   border: 2px solid purple;
-  background-image: url("https://i.gyazo.com/74acc21aad8316f4063379d20d738449.png");
+  background-image: url("https://i.gyazo.com/eb947c0a1a6c66754a77fcee0e73aa41.png");
+  background-size: cover;
 }
 
 div.block2{
