@@ -5,10 +5,10 @@ h1{
 }
 
 div.RayT{
-  color: blue;
-  background-color: white;
   width: 300px;
   border: 10px red;
   padding: 10px;
   margin: 25px;
+  color: blue;
+  background-color: white;
 }
