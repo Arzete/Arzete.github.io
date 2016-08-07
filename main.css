@@ -13,3 +13,33 @@ div.block1{
   background-color: white;
   float: left;
 }
+
+div.block2{
+  width: 300px;
+  border: 25px solid green;
+  padding: 25px;
+  margin: 25px;
+  color: blue;
+  background-color: white;
+  float: left;
+}
+
+div.block3{
+  width: 300px;
+  border: 25px solid green;
+  padding: 25px;
+  margin: 25px;
+  color: blue;
+  background-color: white;
+  float: left;
+}
+
+div.block4{
+  width: 300px;
+  border: 25px solid green;
+  padding: 25px;
+  margin: 25px;
+  color: blue;
+  background-color: white;
+  float: left;
+}
