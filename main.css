@@ -1,3 +1,7 @@
+body{
+  background-image: url("http://f.fwallpapers.com/images/tokyo-nightlife-japan.png");
+  background-attachment: fixed;
+}
 h1{
   font-size: 56px;
   font-family: Papyrus, Arial;
