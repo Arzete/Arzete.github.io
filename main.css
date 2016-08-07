@@ -25,6 +25,7 @@ div.info1{
 }
 
 div.block2{
+  height: 600px;
   width: 300px;
   border: 5px solid green;
   padding: 25px;
@@ -35,7 +36,16 @@ div.block2{
   float: left;
 }
 
+div.info2{
+  padding: 10px;
+  color: black;
+  background: white;
+  margin-top: 350px;
+  border: 2px solid purple;
+}
+
 div.block3{
+  height: 600px;
   width: 300px;
   border: 5px solid red;
   padding: 25px;
@@ -46,7 +56,16 @@ div.block3{
   float: left;
 }
 
+div.info3{
+  padding: 10px;
+  color: black;
+  background: white;
+  margin-top: 350px;
+  border: 2px solid purple;
+}
+
 div.block4{
+  height: 600px;
   width: 300px;
   border: 5px solid yellow;
   padding: 25px;
@@ -55,4 +74,12 @@ div.block4{
   background-image:url("http://vignette2.wikia.nocookie.net/gintama/images/8/86/Gintama_Episode_52.png/revision/latest?cb=20130520105846");
   background-size: cover;
   float: left;
+}
+
+div.info4{
+  padding: 10px;
+  color: black;
+  background: white;
+  margin-top: 350px;
+  border: 2px solid purple;
 }
