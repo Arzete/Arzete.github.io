@@ -6,7 +6,7 @@ h1{
 
 div.block1{
   width: 300px;
-  border: 25px solid green;
+  border: 5px solid green;
   padding: 25px;
   margin: 25px;
   color: blue;
@@ -17,7 +17,7 @@ div.block1{
 
 div.block2{
   width: 300px;
-  border: 25px solid green;
+  border: 5px solid green;
   padding: 25px;
   margin: 25px;
   color: blue;
@@ -28,7 +28,7 @@ div.block2{
 
 div.block3{
   width: 300px;
-  border: 25px solid green;
+  border: 5px solid green;
   padding: 25px;
   margin: 25px;
   color: blue;
@@ -39,7 +39,7 @@ div.block3{
 
 div.block4{
   width: 300px;
-  border: 25px solid green;
+  border: 5px solid green;
   padding: 25px;
   margin: 25px;
   color: blue;
