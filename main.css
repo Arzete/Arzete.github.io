@@ -5,12 +5,12 @@ h1{
 }
 
 div.block1{
-  height: 900px;
+  height: 600px;
   width: 300px;
   border: 5px solid purple;
   padding: 25px;
   margin: 30px;
-  color: yellow;
+  color: blue;
   background-image:url("http://cdn.lolwot.com/wp-content/uploads/2015/04/20-of-the-best-anime-series-ever-created-3.jpg");
   background-size: cover;
   float: left;
