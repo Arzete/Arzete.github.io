@@ -4,11 +4,12 @@ h1{
   color: blue;
 }
 
-div.RayT{
+div.block1{
   width: 300px;
   border: 25px solid green;
   padding: 25px;
   margin: 25px;
   color: blue;
   background-color: white;
+  float: left;
 }
