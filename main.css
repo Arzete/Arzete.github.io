@@ -12,7 +12,7 @@ div.flip3D{ width:360px; height:660px; margin:50px; float:left; }
 div.flip3D > .front{
 	position:absolute;
 	transform: perspective( 600px ) rotateY( 0deg );
-	background: yellow; width:330px; height:630px;
+	background: yellow; width:360px; height:660px;
 	backface-visibility: hidden;
 	transition: transform .5s linear 0s;
 }
