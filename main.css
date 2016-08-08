@@ -62,8 +62,10 @@ div.pic1{
 }
 
 div.backinfo1{
-  background: white;
-  margin-top: 0px;
+  background: url("http://i.imgur.com/zckPFdw.png");
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
   height: 380px;
   width: 360px;
 }
