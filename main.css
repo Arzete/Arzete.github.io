@@ -56,11 +56,10 @@ div.block2{
   width: 300px;
   border: 5px solid green;
   padding: 25px;
-  margin: 40px;
+  margin: 0px;
   color: blue;
   background-image:url("https://i.gyazo.com/b579d612bcc1058efaa685440e2aa8f1.png");
   background-size: cover;
-  float: left;
 }
 
 div.info2{
@@ -78,11 +77,10 @@ div.block3{
   width: 300px;
   border: 5px solid red;
   padding: 25px;
-  margin: 40px;
+  margin: 0px;
   color: blue;
   background-image:url("https://i.gyazo.com/cca735e558f81c8d3bb205f9149752b7.png");
   background-size: cover;
-  float: left;
 }
 
 div.info3{
@@ -100,11 +98,10 @@ div.block4{
   width: 300px;
   border: 5px solid yellow;
   padding: 25px;
-  margin: 40px;
+  margin: 0px;
   color: blue;
   background-image:url("https://i.gyazo.com/9f83bf2870f0e6370600da995aaf5a0b.png");
   background-size: cover;
-  float: left;
 }
 
 div.info4{
@@ -122,11 +119,10 @@ div.block5{
   width: 300px;
   border: 5px solid orange;
   padding: 25px;
-  margin: 40px;
+  margin: 0px;
   color: blue;
   background-image:url("https://i.gyazo.com/9ebe1dcb40558382142291a405a9562c.png");
   background-size: cover;
-  float: left;
 }
 
 div.info5{
@@ -144,11 +140,10 @@ div.block6{
   width: 300px;
   border: 5px solid pink;
   padding: 25px;
-  margin: 40px;
+  margin: 0px;
   color: blue;
   background-image:url("https://i.gyazo.com/3134ab583c51a68c25db6ae56689ea00.png");
   background-size: cover;
-  float: left;
 }
 
 div.info6{
