@@ -62,7 +62,7 @@ div.pic1{
 }
 
 div.backinfo1{
-  background: url("http://i.imgur.com/J0ge0vm.png");
+  background: background: rgba(0, 0, 0, 0.5);
   margin-top: 20px;
   margin-right: 10px;
   margin-left: 10px;
