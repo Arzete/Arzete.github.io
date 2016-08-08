@@ -62,7 +62,10 @@ div.pic1{
 }
 
 div.backinfo1{
-  background: black;	
+  background: white;
+  margin-top: 280px;
+  height: 380px;
+  width: 360px;
 }
 
 div.block2{
