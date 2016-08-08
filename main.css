@@ -51,6 +51,14 @@ div.info1{
   background-size: cover;
 }
 
+div.pic1{
+  background: white;	
+}
+
+div.backinfo1{
+  background: black;	
+}
+
 div.block2{
   height: 600px;
   width: 300px;
