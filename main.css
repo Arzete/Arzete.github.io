@@ -30,7 +30,7 @@ div.flip3D:hover > .back{
 	transform: perspective( 600px ) rotateY( 0deg );
 }
 
-div.block1{
+div.block1{ /*-----------Raymond Tan---------------*/
   height: 600px;
   width: 300px;
   border: 5px solid purple;
@@ -71,7 +71,7 @@ div.backinfo1{
   color: white;
 }
 
-div.block2{
+div.block2{ /*---------Timothy Xiao-------------*/
   height: 600px;
   width: 300px;
   border: 5px solid green;
@@ -112,7 +112,7 @@ div.backinfo2{
   color: white;
 }
 
-div.block3{
+div.block3{ /*--------------Jacky Lin----------------*/
   height: 600px;
   width: 300px;
   border: 5px solid red;
@@ -140,7 +140,7 @@ div.pic3{
   margin-top: 50px;
   margin-left: 75px;
   margin-right: 75px;
-  background-image:url("https://i.gyazo.com/b579d612bcc1058efaa685440e2aa8f1.png");	
+  background-image:url("http://i.imgur.com/xk1kKcG.png");	
 }
 
 div.backinfo3{
@@ -153,7 +153,7 @@ div.backinfo3{
   color: white;
 }
 
-div.block4{
+div.block4{ /*--------------Kevin Zheng---------------*/
   height: 600px;
   width: 300px;
   border: 5px solid yellow;
@@ -181,7 +181,7 @@ div.pic4{
   margin-top: 50px;
   margin-left: 75px;
   margin-right: 75px;
-  background-image:url("https://i.gyazo.com/b579d612bcc1058efaa685440e2aa8f1.png");	
+  background-image:url("http://i.imgur.com/KrCfugL.png");	
 }
 
 div.backinfo4{
@@ -194,7 +194,7 @@ div.backinfo4{
   color: white;
 }
 
-div.block5{
+div.block5{ /*----------------Tony Chen--------------------*/
   height: 600px;
   width: 300px;
   border: 5px solid orange;
@@ -222,7 +222,7 @@ div.pic5{
   margin-top: 50px;
   margin-left: 75px;
   margin-right: 75px;
-  background-image:url("https://i.gyazo.com/b579d612bcc1058efaa685440e2aa8f1.png");	
+  background-image:url("http://i.imgur.com/6POxVMN.png");	
 }
 
 div.backinfo5{
@@ -235,7 +235,7 @@ div.backinfo5{
   color: white;
 }
 
-div.block6{
+div.block6{ /*-------------Richard Chen---------------------*/
   height: 600px;
   width: 300px;
   border: 5px solid pink;
@@ -263,7 +263,7 @@ div.pic6{
   margin-top: 50px;
   margin-left: 75px;
   margin-right: 75px;
-  background-image:url("https://i.gyazo.com/b579d612bcc1058efaa685440e2aa8f1.png");	
+  background-image:url("http://i.imgur.com/9ln6iWr.png");	
 }
 
 div.backinfo6{
