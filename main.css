@@ -92,6 +92,26 @@ div.info2{
   background-size: cover;
 }
 
+div.pic2{
+  height: 200px;
+  width: 200px;
+  border: 5px solid purple;
+  margin-top: 50px;
+  margin-left: 75px;
+  margin-right: 75px;
+  background-image:url("https://i.gyazo.com/b579d612bcc1058efaa685440e2aa8f1.png");	
+}
+
+div.backinfo2{
+  background: rgba(0, 0, 0, 0.5);
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+  height: 360px;
+  width: 340px;
+  color: white;
+}
+
 div.block3{
   height: 600px;
   width: 300px;
@@ -111,6 +131,26 @@ div.info3{
   border: 2px solid purple;
   background-image: url("https://i.gyazo.com/062c642d4e660d55835cbfbf84546294.png");
   background-size: cover;
+}
+
+div.pic3{
+  height: 200px;
+  width: 200px;
+  border: 5px solid purple;
+  margin-top: 50px;
+  margin-left: 75px;
+  margin-right: 75px;
+  background-image:url("https://i.gyazo.com/b579d612bcc1058efaa685440e2aa8f1.png");	
+}
+
+div.backinfo3{
+  background: rgba(0, 0, 0, 0.5);
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+  height: 360px;
+  width: 340px;
+  color: white;
 }
 
 div.block4{
@@ -134,6 +174,26 @@ div.info4{
   background-size: cover;
 }
 
+div.pic4{
+  height: 200px;
+  width: 200px;
+  border: 5px solid purple;
+  margin-top: 50px;
+  margin-left: 75px;
+  margin-right: 75px;
+  background-image:url("https://i.gyazo.com/b579d612bcc1058efaa685440e2aa8f1.png");	
+}
+
+div.backinfo4{
+  background: rgba(0, 0, 0, 0.5);
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+  height: 360px;
+  width: 340px;
+  color: white;
+}
+
 div.block5{
   height: 600px;
   width: 300px;
@@ -155,6 +215,26 @@ div.info5{
   background-size: cover;
 }
 
+div.pic5{
+  height: 200px;
+  width: 200px;
+  border: 5px solid purple;
+  margin-top: 50px;
+  margin-left: 75px;
+  margin-right: 75px;
+  background-image:url("https://i.gyazo.com/b579d612bcc1058efaa685440e2aa8f1.png");	
+}
+
+div.backinfo5{
+  background: rgba(0, 0, 0, 0.5);
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+  height: 360px;
+  width: 340px;
+  color: white;
+}
+
 div.block6{
   height: 600px;
   width: 300px;
@@ -174,4 +254,24 @@ div.info6{
   border: 2px solid purple;
   background-image: url("https://i.gyazo.com/062c642d4e660d55835cbfbf84546294.png");
   background-size: cover;
+}
+
+div.pic6{
+  height: 200px;
+  width: 200px;
+  border: 5px solid purple;
+  margin-top: 50px;
+  margin-left: 75px;
+  margin-right: 75px;
+  background-image:url("https://i.gyazo.com/b579d612bcc1058efaa685440e2aa8f1.png");	
+}
+
+div.backinfo6{
+  background: rgba(0, 0, 0, 0.5);
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+  height: 360px;
+  width: 340px;
+  color: white;
 }
