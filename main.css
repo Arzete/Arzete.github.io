@@ -12,7 +12,7 @@ div.flip3D{ width:360px; height:660px; margin:50px; float:left; }
 div.flip3D > .front{
 	position:absolute;
 	transform: perspective( 600px ) rotateY( 0deg );
-	background: yellow; width:360px; height:660px;
+	background: yellow; width:340px; height:640px;
 	backface-visibility: hidden;
 	transition: transform .5s linear 0s;
 }
@@ -37,7 +37,7 @@ div.block1{
   border: 0px;
   margin: 0px;
   color: blue;
-  background-image:url("http://i.imgur.com/83qydFx.png");
+  background-image:url("http://i.imgur.com/b9VwmIz.png");
   background-size: cover;
 }
 
