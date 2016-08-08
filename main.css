@@ -55,7 +55,9 @@ div.pic1{
   height: 200px;
   width: 200px;
   border: 5px solid purple;
-  margin: 75px;
+  margin-top: 50px;
+  margin-left: 75px;
+  margin-right: 75px;
   background-image:url("https://i.gyazo.com/b579d612bcc1058efaa685440e2aa8f1.png");	
 }
 
