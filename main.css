@@ -31,9 +31,10 @@ div.flip3D:hover > .back{
 }
 
 div.block1{
-  height: 553px;
+  height: 660px;
   width: 360px;
   padding: 25px;
+  border: 0px;
   margin: 0px;
   color: blue;
   background-image:url("http://i.imgur.com/oTbXBEA.png");
