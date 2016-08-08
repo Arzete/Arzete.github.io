@@ -33,11 +33,10 @@ div.flip3D:hover > .back{
 div.block1{
   height: 600px;
   width: 300px;
-  border: 5px solid purple;
   padding: 25px;
   margin: 0px;
   color: blue;
-  background-image:url("https://i.gyazo.com/60cd08f5892e51be9e613af09f14fb64.png");
+  background-image:url("http://i.imgur.com/oTbXBEA.png");
   background-size: cover;
 }
 
