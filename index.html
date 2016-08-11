@@ -17,6 +17,14 @@ Night Life
 <button id="myBtn">Videos</button>
 
 </div>
+
+<div class="modal" id="myModal">
+  <div class="modalcontent">
+    <span class="close">x</span>
+    <p>content goes here</p>
+  </div>
+</div>
+
 <!--//////////////////////Members/////////////////////-->
 <div class="flip3D">
   <div class="front">
@@ -202,5 +210,21 @@ Night Life
 
 
 </body>
+
+<script>
+  var modal = document.getElementById("myModal");
+  var btn = document.getElementById("myBtn");
+  var span = document.getElementsByClassName("close");
+  
+  btn.onclick = function(){
+    modal.style.display = "block";
+  }
+  span.onclick = function(){
+    modal.style.display = "none";
+  }
+  window.onclick = function(){
+    modal.style.display = "none";
+  }
+</script>
 
 </html>
