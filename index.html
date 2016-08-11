@@ -20,7 +20,7 @@ Night Life
 
 <div class="modal" id="myModal">
   <div class="modalcontent">
-    <span class="close">x</span>
+    <span id="close">x</span>
     <p>content goes here</p>
   </div>
 </div>
@@ -214,7 +214,7 @@ Night Life
 <script>
   var modal = document.getElementById("myModal");
   var btn = document.getElementById("myBtn");
-  var span = document.getElementsByClassName("close");
+  var span = document.getElementById("close");
   
   btn.onclick = function(){
     modal.style.display = "block";
