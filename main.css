@@ -2,10 +2,9 @@ body{
   background-image: url("http://f.fwallpapers.com/images/tokyo-nightlife-japan.png");
   background-attachment: fixed;
 }
-h1{
-  font-size: 56px;
-  font-family: Papyrus, Arial;
-  color: blue;
+
+.myBtn {
+	float: right;
 }
 
 div.flip3D{ width:360px; height:660px; margin:50px; float:left; }
