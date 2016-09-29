@@ -6,6 +6,11 @@
 <title>
 Night Life
 </title>
+
+<audio id="myPride">
+    <source src="https://www.dropbox.com/s/n7exus55feggu62/Joey%20Yung%20-%20My%20Pride.mp3?dl=0" type="audio/mpeg"/>
+</audio>
+  
 </head>
 
 <body>
@@ -209,10 +214,16 @@ Night Life
   </div>
 </div>
 
+<button onclick="playMyPride()">My Pride - Joey Yung</button>
 
 </body>
 
 <script>
+  function playMyPride() {
+      var audio = document.getElementById("myPride");
+  }
+  
+  
   var modal = document.getElementById("myModal");
   var btn = document.getElementById("myBtn");
   var span = document.getElementById("close");
